@@ -1976,7 +1976,7 @@ var Gmail = function(localJQuery) {
         };
         break;
         
-      case 'cn':
+      case 'zh-CN':
         dictionary = {
           'inbox': '收件箱',
           'drafts': '草稿',
