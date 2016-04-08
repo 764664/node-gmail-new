@@ -1975,6 +1975,18 @@ var Gmail = function(localJQuery) {
           'social_updates': 'Sociaal'
         };
         break;
+        
+      case 'cn':
+        dictionary = {
+          'inbox': '收件箱',
+          'drafts': '草稿',
+          'spam': '垃圾邮件',
+          'forums': '论坛',
+          'updates': '动态',
+          'promotions': '推广',
+          'social_updates': '社交'
+        };
+        break;
 
       case 'en':
       default:
